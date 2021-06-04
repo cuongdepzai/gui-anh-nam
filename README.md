@@ -8,19 +8,19 @@ Liên lạc:
 Mở file config.js sửa nội dung theo mẫu
 ```
 const CONFIG = {
-    introTitle: 'Chào chị Trúc',
-    introDesc: `Em là Cường`,
-    btnIntro: 'hihi',
-    title: 'Bây giờ chị có 2 lựa chọn ',
+    introTitle: 'Chào thằng lòn Đức Anh',
+    introDesc: `Tao là Cường đây`,
+    btnIntro: 'Ấn vào đây',
+    title: 'Bây giờ m có 2 lựa chọn ',
     desc: 'Nghĩ kĩ nhé ',
-    btnYes: 'Cho em 100tr',
+    btnYes: 'Cho tao 2 đôi giầy',
     btnNo: 'Được tao bao đi ăn lẩu ',
-    question:'Chúc mừng chị đã quay vào ô may mắn :))) ',
+    question:'Chúc mừng m đã quay vào ô may mắn :))) ',
     btnReply: 'M lừa tao',
     reply: 'Đúng rồi đó ',
     mess: 'Chuýt sì',
     messDesc: 'Lêu lêu',
-    btnAccept: 'Chào chị nha :>> ',
+    btnAccept: 'Chào thằng lòn nha :>> ',
 }
 ```
 
