@@ -12,5 +12,5 @@ const CONFIG = {
     mess: 'Long Dumm vl',
     messDesc: 'Chuýt sì',
     btnAccept: 'Biếnnn',
-    messLink: 'https://cuongdepzai.github.io/khai-lon/'
+    messLink: 'https://hentaivn.tv/'
 }
