@@ -12,4 +12,5 @@ const CONFIG = {
     mess: 'Khải Dumm vl',
     messDesc: 'Chuýt sì',
     btnAccept: 'Biếnnn',
+    messLink: 'https://cuongdepzai.github.io/khai-lon/'
 }
